@@ -1,2 +1,2 @@
 # Info-C112
-School Introductory Java Programming Course
+IUS Introductory Java Programming Course
